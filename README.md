@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create Contentful App](https://github.com/contentful/create-contentful-app).
 
+### To begin start server locally
+### 1. cd src
+### 2. node server.js
+   
 ## Available Scripts
 
 In the project directory, you can run:
