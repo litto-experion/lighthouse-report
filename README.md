@@ -2,7 +2,8 @@ This project was bootstrapped with [Create Contentful App](https://github.com/co
 
 ### To begin start server locally
 ### 1. cd src
-### 2. node server.js
+### 2. Inside .env file and put your gemini API key as GEMINI_API_KEY=
+### 3. node server.js
    
 ## Available Scripts
 
